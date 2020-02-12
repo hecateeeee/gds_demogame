@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Parallax BG
+    uniqueID: 1037186559
+    locked: 0
+  - name: Parallax 1
+    uniqueID: 1109374775
+    locked: 0
+  - name: Parallax 2
+    uniqueID: 286009933
+    locked: 0
+  - name: Parallax 3
+    uniqueID: 3405557251
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Particle FG
+    uniqueID: 3889923725
+    locked: 0
